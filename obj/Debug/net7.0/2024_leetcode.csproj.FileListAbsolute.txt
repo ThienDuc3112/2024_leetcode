@@ -1,0 +1,4 @@
+C:\Users\ADMIN\Desktop\Projects\2024_leetcode\obj\Debug\net7.0\2024_leetcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Projects\2024_leetcode\obj\Debug\net7.0\2024_leetcode.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Projects\2024_leetcode\obj\Debug\net7.0\2024_leetcode.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Projects\2024_leetcode\obj\Debug\net7.0\2024_leetcode.csproj.CoreCompileInputs.cache
