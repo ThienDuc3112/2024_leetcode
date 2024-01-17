@@ -1,3 +1,4 @@
+namespace CloneGraph;
 public class Solution
 {
     // Solution with hint from answer
