@@ -1,2 +1,1 @@
-﻿var test = new CoinChange.Solution();
-System.Console.WriteLine(test.CoinChange(new int[] { 1, 2, 5 }, 10));
+﻿System.Console.WriteLine(maxSumAfterPartitioning.Solution.maxSumAfterPartitioning(new int[] { 1, 15, 7, 9, 2, 5, 10 }, 3));
