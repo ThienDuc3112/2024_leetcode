@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ADMIN\\Desktop\\Projects\\2024_leetcode\\2024_leetcode.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\Projects\\2024_leetcode\\2024_leetcode.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ADMIN\\Desktop\\Projects\\2024_leetcode\\2024_leetcode.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\Projects\\2024_leetcode\\2024_leetcode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ADMIN\\Desktop\\Projects\\2024_leetcode\\2024_leetcode.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\Projects\\2024_leetcode\\2024_leetcode.csproj",
         "projectName": "2024_leetcode",
-        "projectPath": "c:\\Users\\ADMIN\\Desktop\\Projects\\2024_leetcode\\2024_leetcode.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\Projects\\2024_leetcode\\2024_leetcode.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ADMIN\\Desktop\\Projects\\2024_leetcode\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\Projects\\2024_leetcode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
