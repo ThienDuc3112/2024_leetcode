@@ -1,1 +1,1 @@
-﻿System.Console.WriteLine(maxSumAfterPartitioning.Solution.maxSumAfterPartitioning(new int[] { 1, 15, 7, 9, 2, 5, 10 }, 3));
+﻿System.Console.WriteLine("Hi");

@@ -1,0 +1,12 @@
+c:\Users\ADMIN\Desktop\Projects\2024_leetcode\obj\Debug\net7.0\2024_leetcode.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ADMIN\Desktop\Projects\2024_leetcode\obj\Debug\net7.0\2024_leetcode.csproj.CoreCompileInputs.cache
+c:\Users\ADMIN\Desktop\Projects\2024_leetcode\bin\Debug\net7.0\2024_leetcode.exe
+c:\Users\ADMIN\Desktop\Projects\2024_leetcode\bin\Debug\net7.0\2024_leetcode.deps.json
+c:\Users\ADMIN\Desktop\Projects\2024_leetcode\bin\Debug\net7.0\2024_leetcode.runtimeconfig.json
+c:\Users\ADMIN\Desktop\Projects\2024_leetcode\bin\Debug\net7.0\2024_leetcode.dll
+c:\Users\ADMIN\Desktop\Projects\2024_leetcode\bin\Debug\net7.0\2024_leetcode.pdb
+c:\Users\ADMIN\Desktop\Projects\2024_leetcode\obj\Debug\net7.0\2024_leetcode.dll
+c:\Users\ADMIN\Desktop\Projects\2024_leetcode\obj\Debug\net7.0\refint\2024_leetcode.dll
+c:\Users\ADMIN\Desktop\Projects\2024_leetcode\obj\Debug\net7.0\2024_leetcode.pdb
+c:\Users\ADMIN\Desktop\Projects\2024_leetcode\obj\Debug\net7.0\2024_leetcode.genruntimeconfig.cache
+c:\Users\ADMIN\Desktop\Projects\2024_leetcode\obj\Debug\net7.0\ref\2024_leetcode.dll

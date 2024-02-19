@@ -1,5 +1,6 @@
 using System.Text;
 
+namespace CountSubstrings;
 public class Solution
 {
     // Extend palindrome
